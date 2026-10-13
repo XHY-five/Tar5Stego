@@ -1,0 +1,40 @@
+# 默认忽略的文件
+/shelf/
+/workspace.xml
+/480p/results_bin/
+/480p/results/dec_steg_0.3_*/
+/480p/results/dec_steg_0.5_*/
+/results/
+/480p/results/dec_steg_0.1_24/
+/480p/results/dec_steg_0.1_28/
+/results/dec_steg_0.1_24/
+/results/dec_steg_0.1_28/
+/480p/results_rdcost/results_24_rdcost
+/480p/results_rdcost/results_28_rdcost
+/Tar5stegresults/24_steg
+/Tar5stegresults/32_steg
+/Tar5stegresults/28_steg
+/Tar5stegresults/480p/24_steg
+/Tar5stegresults/480p/28_steg
+
+/480p/utils/24_ddg
+/480p/utils/24_embedding_plan
+/480p/utils/28_ddg
+/480p/utils/28_embedding_plan
+/utils/
+/results_bin/
+/results_rdcost/results_24_rdcost
+/results_rdcost/results_28_rdcost
+/splits_*_28/
+/splits_0.5_32/
+# RD Cost experimental outputs
+/results_rdcost/
+/480p/results_rdcost/
+
+# Decoded experimental outputs
+/480p/results/
+
+# Generated DDG data
+/480p/utils/32_ddg/
+# HEVC steganography experimental results
+/Tar5stegresults/
